@@ -92,9 +92,9 @@ export default function BirthdayCelebration2() {
             >
               <div className="text-center">
                 <p className="text-purple-700 mb-2">
-                  Just wanted to remind you—you're my favorite person. My days are better, smiles are wider, and life is sweeter because of you.
+                  I want you to know—I’m not going to leave you in the mid like that and It’s all there in front of you. Deep down, you already know what’s good and what isn’t.
                 </p>
-                <p className="text-pink-600 font-medium">I hope your birthday is full of love, magic, and everything that makes you smile 💖</p>
+                <p className="text-pink-600 font-medium">You said you can not take gifts at home else I would have Given a bouquet like that, with your favorite chocolates, There are 2 sol in a wallet in the second link go buy some from my side "id-your clg mail" "pass-same as you shared me once"  💖</p>
                 <div className="flex justify-center">
                   <motion.div
                     animate={{
