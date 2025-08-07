@@ -47,8 +47,7 @@ This was created as part of an emotional reel where the journey begins with a fe
 To run this project locally:
 
 ```bash
-git clone https://github.com/Anuj579/birthday-site.git
-cd birthday-site
+git clone 
 npm install
 npm run dev
 ```
